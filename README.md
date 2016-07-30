@@ -1,2 +1,4 @@
 # hello-world
-learning github
+my github
+
+here are a few addition
